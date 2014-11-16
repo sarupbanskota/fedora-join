@@ -1,0 +1,27 @@
+@import url(http://fonts.googleapis.com/css?family=Comfortaa:700);
+@media screen and (min-width: 0em) {
+  * {
+    margin: 0em;
+    padding: 0em; }
+
+  header {
+    color: #3c6eb4;
+    background-color: #294172;
+    font-family: 'Comfortaa', cursive;
+    padding: 2.5em; }
+
+  article section {
+    padding: 2em;
+    background-color: #dedede;
+    color: #8c8c8c; }
+  article section:hover {
+    background-color: white;
+    cursor: pointer;
+    color: black; }
+
+  footer {
+    color: #8c8c8c;
+    padding: 2em;
+    font-size: 0.9em; } }
+
+/*# sourceMappingURL=main.css.map */
